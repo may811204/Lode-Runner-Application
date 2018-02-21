@@ -1,0 +1,9 @@
+# Eclipse-Built Folders
+/bin/
+
+# Makefile-Built Files
+/out/
+/*.jar
+
+# Database for Jar Files Run in the Root Directory
+/stat/
